@@ -41,10 +41,11 @@ The project implements a **multi-package architecture** integrating complex busi
 ---
 
 ##  How to Run
-1. Run table creation scripts to initialize schema.  
-2. Execute all package and trigger files in Oracle SQL Developer.  
-3. Load sample data using insert scripts.  
-4. Test business logic by calling procedures and reviewing output via `DBMS_OUTPUT`.
+Direct Execution in SQL*Plus:
+
+- Open SQL*Plus and connect to your Oracle database.
+- Run the script
+- Set server output to view procedure results
 
 ---
 
