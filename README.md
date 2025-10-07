@@ -25,7 +25,7 @@ The project implements a **multi-package architecture** integrating complex busi
 ---
 
 ##  Highlights
-- Implemented transactional consistency using `COMMIT`, `ROLLBACK`, and savepoints.  
+- Implemented transactional consistency using COMMIT, ROLLBACK, and savepoints.  
 - Designed referential integrity with foreign key constraints and cascading updates.  
 - Automated core workflows — order validation, stock updates, and payment reconciliation.  
 - Enhanced modularity through reusable PL/SQL packages, making the system maintainable and scalable.  
